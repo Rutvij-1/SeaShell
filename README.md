@@ -8,7 +8,7 @@ Linux Shell supporting some basic functionalities written in C with the help of 
 
 - Clone the directory
 - run `make` inside the directory.
-- `./a.out` to run the shell.
+- `./shell` to run the shell.
 - `quit` to exit out of the shell.
 
 ## Commands Implemented
